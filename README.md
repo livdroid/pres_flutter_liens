@@ -14,6 +14,7 @@ https://cdn.nubank.com.br/mobile/taskforce/nubank-mobile-architecture-task-force
 ## Articles sur Flutter
 
 https://hackernoon.com/whats-revolutionary-about-flutter-946915b09514
+
 https://hackernoon.com/the-good-and-the-bad-of-flutter-app-development-45f27b1caa36
 
 ## Apprendre Flutter
